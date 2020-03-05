@@ -1,0 +1,5 @@
+name: CombatLogger
+main: MrHuskyy\TurtleSh0ck/CombatLogger/Main
+version: 1.0.0
+api: [3.0.0,3.3.7,4.0.0]
+author: MrHuskyy\TurtleSh0ck
